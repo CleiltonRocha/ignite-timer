@@ -15,6 +15,8 @@ The following technologias and tools was used to build the application
  - 
 ## Application Preview
 
+Home page
+<img src="https://github.com/CleiltonRocha/ignite-timer/.github/home-preview" width="1280" height="720">
 
 
  
